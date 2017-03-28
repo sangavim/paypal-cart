@@ -1,0 +1,26 @@
+[
+  {
+    "model": "cart.Product",
+    "fields": {
+      "custom_id": 100,
+      "name": "Google!",
+      "price": "8.00"
+    }
+  },
+  {
+    "model": "cart.Product",
+    "fields": {
+      "custom_id": 200,
+      "name": "Microsoft!",
+      "price": "10.00"
+    }
+  },
+  {
+    "model": "cart.Product",
+    "fields": {
+      "custom_id": 300,
+      "name": "Apple!",
+      "price": "12.00"
+    }
+  }
+]
